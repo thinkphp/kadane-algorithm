@@ -11,3 +11,4 @@ Kadane's Algorithm is a popular algorithm used to solve the maximum subarray sum
 ### Practice
 - https://leetcode.com/problems/maximum-subarray/description/
 - https://infoarena.ro/problema/ssm
+- https://cses.fi/problemset/task/1643
