@@ -7,6 +7,7 @@ Kadane's Algorithm is a popular algorithm used to solve the maximum subarray sum
 - https://infoarena.ro/problema/ssm
 - https://cses.fi/problemset/task/1643
 - https://cses.fi/problemset/task/1644/
+- https://codeforces.com/gym/102961/problem/H
 
 ### References:
 - https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
